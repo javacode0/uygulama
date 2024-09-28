@@ -9,6 +9,11 @@
             "name": "Mod 2",
             "description": "Bu mod yeni karakterler ekler.",
             "icon": "fas fa-users"
+        },
+                {
+            "name": "Mod 3",
+            "description": "Bu mod yeni karakterler ekler.",
+            "icon": "fas fa-users"
         }
     ]
 }
