@@ -3,17 +3,16 @@
         {
             "name": "Mod 1",
             "description": "Bu mod, oyununuzu geliştirir.",
-            "icon": "fas fa-rocket"
+            "icon": "fas fa-rocket",
+            "downloadUrl": "https://example.com/download/mod1",
+            "downloads": 100  // İndirme sayısı
         },
         {
             "name": "Mod 2",
             "description": "Bu mod yeni karakterler ekler.",
-            "icon": "fas fa-users"
-        },
-                {
-            "name": "Mod 3",
-            "description": "Bu mod yeni karakterler ekler.",
-            "icon": "fas fa-users"
+            "icon": "fas fa-users",
+            "downloadUrl": "https://example.com/download/mod2",
+            "downloads": 50
         }
     ]
 }
