@@ -1,0 +1,14 @@
+{
+    "mods": [
+        {
+            "name": "Mod 1",
+            "description": "Bu mod, oyununuzu geliştirir.",
+            "icon": "fas fa-rocket"
+        },
+        {
+            "name": "Mod 2",
+            "description": "Bu mod yeni karakterler ekler.",
+            "icon": "fas fa-users"
+        }
+    ]
+}
