@@ -2,15 +2,24 @@
   "mods": [
     {
       "name": "Mod 1",
-      "description": "Bu mod oyununuzu geliştirir.",
-      "downloadUrl": "https://example.com/mod1.zip",
-      "imageUrl": "https://example.com/mod1-image.jpg"
+      "description": "Bu mod, oyununuzu geliştirir.",
+      "imageUrl": "https://example.com/path/to/image1.jpg",
+      "downloads": 150,
+      "downloadLink": "https://example.com/path/to/download1"
     },
     {
       "name": "Mod 2",
       "description": "Bu mod yeni karakterler ekler.",
-      "downloadUrl": "https://example.com/mod2.zip",
-      "imageUrl": "https://example.com/mod2-image.jpg"
+      "imageUrl": "https://example.com/path/to/image2.jpg",
+      "downloads": 200,
+      "downloadLink": "https://example.com/path/to/download2"
+    },
+    {
+      "name": "Mod 3",
+      "description": "Bu mod yeni haritalar sunar.",
+      "imageUrl": "https://example.com/path/to/image3.jpg",
+      "downloads": 100,
+      "downloadLink": "https://example.com/path/to/download3"
     }
   ]
 }
