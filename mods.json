@@ -1,18 +1,25 @@
 {
-    "mods": [
-        {
-            "name": "Mod 1",
-            "description": "Bu mod, oyununuzu geliştirir.",
-            "icon": "fas fa-rocket",
-            "downloadUrl": "https://example.com/download/mod1",
-            "downloads": 100
-        },
-        {
-            "name": "Mod 2",
-            "description": "Bu mod yeni karakterler ekler.",
-            "icon": "fas fa-users",
-            "downloadUrl": "https://example.com/download/mod2",
-            "downloads": 50
-        }
-    ]
+  "mods": [
+    {
+      "name": "Mod 1",
+      "description": "Bu mod, oyununuzu geliştirir.",
+      "icon": "fas fa-rocket",
+      "downloadUrl": "https://example.com/download/mod1",
+      "downloads": 100
+    },
+    {
+      "name": "Mod 2",
+      "description": "Bu mod yeni karakterler ekler.",
+      "icon": "fas fa-users",
+      "downloadUrl": "https://example.com/download/mod2",
+      "downloads": 50
+    },
+    {
+      "name": "map",
+      "description": "map",
+      "icon": "fa-solid fa-file",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1041417373040779416/1289685091362013284/maps.psd?ex=66f9b856&is=66f866d6&hm=670f08bf3e5d7d0c0b3016795d4fe2e9d6ccee9d04d37e49cfab8509f0f88951&",
+      "downloads": 0
+    }
+  ]
 }
