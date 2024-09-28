@@ -1,20 +1,27 @@
 {
-    "mods": [
-        {
-            "name": "Mod 1",
-            "description": "Açıklama 1",
-            "imageUrl": "https://example.com/image1.png",
-            "downloadLink": "https://example.com/download1.zip",
-            "downloads": 0,
-            "sha": "SHA_DEGERI"
-        },
-        {
-            "name": "Mod 2",
-            "description": "Açıklama 2",
-            "imageUrl": "https://example.com/image2.png",
-            "downloadLink": "https://example.com/download2.zip",
-            "downloads": 0,
-            "sha": "SHA_DEGERI"
-        }
-    ]
+  "mods": [
+    {
+      "name": "Mod 1",
+      "description": "Açıklama 1",
+      "imageUrl": "https://example.com/image1.png",
+      "downloadLink": "https://example.com/download1.zip",
+      "downloads": 0,
+      "sha": "SHA_DEGERI"
+    },
+    {
+      "name": "Mod 2",
+      "description": "Açıklama 2",
+      "imageUrl": "https://example.com/image2.png",
+      "downloadLink": "https://example.com/download2.zip",
+      "downloads": 0,
+      "sha": "SHA_DEGERI"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "description": "Red Dead Redemption 2, Rockstar Games tarafından geliştirilen ve yayımlanan, 2018 aksiyon-macera temalı video oyunu. Red Dead serisinin üçüncü oyunu oldu ve 2010 Red Dead Redemption oyununun bir prequelidir. Hikâye, 1899'da Batı, Ortabatı ve Güney ABD'nın kurgusal bir temsilinde geçmektedir. ",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08519_00/12/i_3da1cf7c41dc7652f9b639e1680d96436773658668c7dc3930c441291095713b/i/icon0.png",
+      "downloads": 0,
+      "downloadLink": "https://cdn.discordapp.com/attachments/1041417373040779416/1289685091362013284/maps.psd?ex=66f9b856&is=66f866d6&hm=670f08bf3e5d7d0c0b3016795d4fe2e9d6ccee9d04d37e49cfab8509f0f88951&"
+    }
+  ]
 }
