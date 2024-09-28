@@ -5,7 +5,7 @@
             "description": "Bu mod, oyununuzu geliştirir.",
             "icon": "fas fa-rocket",
             "downloadUrl": "https://example.com/download/mod1",
-            "downloads": 100  // İndirme sayısı
+            "downloads": 100
         },
         {
             "name": "Mod 2",
