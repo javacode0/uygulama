@@ -3,16 +3,86 @@
     {
       "name": "Mod 1",
       "description": "Bu mod çok işinize yarayacak.",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08519_00/12/i_3da1cf7c41dc7652f9b639e1680d96436773658668c7dc3930c441291095713b/i/icon0.png",
+      "imageUrl": "https://your-image-url.com/image1.jpg",
       "downloads": 120,
-      "downloadLink": "https://example.com/mod1-download"
+      "downloadLink": "https://download-link.com/mod1"
     },
     {
       "name": "Mod 2",
       "description": "Bu mod harika!",
-      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/b3iB2zf2xHj9shC0XDTULxND.png",
+      "imageUrl": "https://your-image-url.com/image2.jpg",
       "downloads": 200,
-      "downloadLink": "https://example.com/mod2-download"
+      "downloadLink": "https://download-link.com/mod2"
+    },
+    {
+      "name": "Mod 3",
+      "description": "Bu modla oyun deneyiminizi geliştirin.",
+      "imageUrl": "https://your-image-url.com/image3.jpg",
+      "downloads": 150,
+      "downloadLink": "https://download-link.com/mod3"
+    },
+    {
+      "name": "Mod 4",
+      "description": "Aksiyon dolu bir mod.",
+      "imageUrl": "https://your-image-url.com/image4.jpg",
+      "downloads": 300,
+      "downloadLink": "https://download-link.com/mod4"
+    },
+    {
+      "name": "Mod 5",
+      "description": "Görsel efektlerle dolu yeni bir mod.",
+      "imageUrl": "https://your-image-url.com/image5.jpg",
+      "downloads": 180,
+      "downloadLink": "https://download-link.com/mod5"
+    },
+    {
+      "name": "Mod 6",
+      "description": "Bu mod size yeni dünyalar keşfettirecek.",
+      "imageUrl": "https://your-image-url.com/image6.jpg",
+      "downloads": 90,
+      "downloadLink": "https://download-link.com/mod6"
+    },
+    {
+      "name": "Mod 7",
+      "description": "Yenilenmiş karakterlerle oyun keyfi.",
+      "imageUrl": "https://your-image-url.com/image7.jpg",
+      "downloads": 75,
+      "downloadLink": "https://download-link.com/mod7"
+    },
+    {
+      "name": "Mod 8",
+      "description": "Farklı görevlerle yeni bir deneyim.",
+      "imageUrl": "https://your-image-url.com/image8.jpg",
+      "downloads": 210,
+      "downloadLink": "https://download-link.com/mod8"
+    },
+    {
+      "name": "Mod 9",
+      "description": "Daha fazla aksiyon ve macera için bu modu deneyin.",
+      "imageUrl": "https://your-image-url.com/image9.jpg",
+      "downloads": 50,
+      "downloadLink": "https://download-link.com/mod9"
+    },
+    {
+      "name": "Mod 10",
+      "description": "Harika grafikler ve etkileyici atmosfer.",
+      "imageUrl": "https://your-image-url.com/image10.jpg",
+      "downloads": 330,
+      "downloadLink": "https://download-link.com/mod10"
+    },
+    {
+      "name": "Mod 11",
+      "description": "Oyun dünyanızı baştan aşağıya yenileyin.",
+      "imageUrl": "https://your-image-url.com/image11.jpg",
+      "downloads": 140,
+      "downloadLink": "https://download-link.com/mod11"
+    },
+    {
+      "name": "Mod 12",
+      "description": "Yeni karakterlerle tanışın ve maceraya atılın.",
+      "imageUrl": "https://your-image-url.com/image12.jpg",
+      "downloads": 290,
+      "downloadLink": "https://download-link.com/mod12"
     }
   ]
 }
