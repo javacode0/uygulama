@@ -1,13 +1,18 @@
 {
-    "mods": [
-        {
-            "name": "Mod 1",
-            "description": "Bu bir test modudur.",
-            "imageUrl": "https://example.com/mod1.jpg",
-            "downloads": 100,
-            "version": "1.0.0",
-            "lastUpdate": "2024-01-01",
-            "downloadLink": "https://example.com/mod1-download"
-        }
-    ]
+  "mods": [
+    {
+      "name": "Mod 1",
+      "description": "Bu mod çok işinize yarayacak.",
+      "imageUrl": "https://example.com/mod1.jpg",
+      "downloads": 120,
+      "downloadLink": "https://example.com/mod1-download"
+    },
+    {
+      "name": "Mod 2",
+      "description": "Bu mod harika!",
+      "imageUrl": "https://example.com/mod2.jpg",
+      "downloads": 200,
+      "downloadLink": "https://example.com/mod2-download"
+    }
+  ]
 }
