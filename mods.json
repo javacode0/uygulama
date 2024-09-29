@@ -1,31 +1,13 @@
 {
-  "mods": [
-    {
-      "name": "Mod 1",
-      "version": "1.1",  // Modun mevcut versiyonu
-      "description": "Bu mod oyununuzu daha eğlenceli hale getirir.",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08519_00/12/i_3da1cf7c41dc7652f9b639e1680d96436773658668c7dc3930c441291095713b/i/icon0.png",
-      "downloads": 500,
-      "downloadLink": "https://example.com/mod1-download",
-      "updateLog": "Performans iyileştirmeleri ve yeni özellikler eklendi."
-    },
-    {
-      "name": "Mod 2",
-      "version": "1.3",  // Modun mevcut versiyonu
-      "description": "Bu mod yeni haritalar ve görevler ekler.",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08519_00/12/i_3da1cf7c41dc7652f9b639e1680d96436773658668c7dc3930c441291095713b/i/icon0.png",
-      "downloads": 300,
-      "downloadLink": "https://example.com/mod2-download",
-      "updateLog": "Yeni harita ve görevler eklendi."
-    },
-    {
-      "name": "Mod 3",
-      "version": "2.1",  // Modun mevcut versiyonu
-      "description": "Bu mod grafik iyileştirmeleri yapar.",
-      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08519_00/12/i_3da1cf7c41dc7652f9b639e1680d96436773658668c7dc3930c441291095713b/i/icon0.png",
-      "downloads": 1200,
-      "downloadLink": "https://example.com/mod3-download",
-      "updateLog": "Yeni grafik motoru entegre edildi."
-    }
-  ]
+    "mods": [
+        {
+            "name": "Mod 1",
+            "description": "Bu bir test modudur.",
+            "imageUrl": "https://example.com/mod1.jpg",
+            "downloads": 100,
+            "version": "1.0.0",
+            "lastUpdate": "2024-01-01",
+            "downloadLink": "https://example.com/mod1-download"
+        }
+    ]
 }
