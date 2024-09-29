@@ -3,14 +3,14 @@
     {
       "name": "Mod 1",
       "description": "Bu mod çok işinize yarayacak.",
-      "imageUrl": "https://example.com/mod1.jpg",
+      "imageUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08519_00/12/i_3da1cf7c41dc7652f9b639e1680d96436773658668c7dc3930c441291095713b/i/icon0.png",
       "downloads": 120,
       "downloadLink": "https://example.com/mod1-download"
     },
     {
       "name": "Mod 2",
       "description": "Bu mod harika!",
-      "imageUrl": "https://example.com/mod2.jpg",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/b3iB2zf2xHj9shC0XDTULxND.png",
       "downloads": 200,
       "downloadLink": "https://example.com/mod2-download"
     }
