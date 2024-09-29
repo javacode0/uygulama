@@ -83,6 +83,13 @@
       "imageUrl": "https://your-image-url.com/image12.jpg",
       "downloads": 290,
       "downloadLink": "https://download-link.com/mod12"
+    },
+    {
+      "name": "Mod 13",
+      "description": "Görsel efektlerle dolu yeni bir mod.",
+      "imageUrl": "https://your-image-url.com/image2.jpg",
+      "downloads": 1954,
+      "downloadLink": "https://download-link.com/mod4"
     }
   ]
 }
