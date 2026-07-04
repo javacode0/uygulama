@@ -1,0 +1,6 @@
+{
+  "SWV036": [
+    { "dep": "LTFM", "arr": "LTBJ", "aircraft": "A320neo" },
+    { "dep": "LTFM", "arr": "EDDF", "aircraft": "B738" }
+  ]
+}
