@@ -1,10 +1,10 @@
 {
-  "SWV064": [
+  "SWV022": [
     {
-      "flight_number": "SWV064",
-      "dep": "LTAI",
-      "arr": "LTFJ",
-      "aircraft": "B738"
+      "flight_number": "SWV99A",
+      "dep": "LSZH",
+      "arr": "LPPT",
+      "aircraft": "A319"
     },
     {
       "flight_number": "SWV3434",
