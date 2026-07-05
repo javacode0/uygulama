@@ -1,6 +1,6 @@
 {
-  "SWV036": [
-    { "dep": "LTFM", "arr": "LTBJ", "aircraft": "A320neo" },
+  "SWV064": [
+    { "dep": "LTAI", "arr": "LTFJ", "aircraft": "B738" },
     { "dep": "LTFM", "arr": "EDDF", "aircraft": "B738" }
   ]
 }
