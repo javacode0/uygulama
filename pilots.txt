@@ -1,1 +1,105 @@
-SWV036:Samed
+Kanki, gönderdiğin karmaşık pilot listesini ayırdım ve senin programın okuma algoritması olan `KOD:İSİM` şablonuna göre satır satır jilet gibi dizdim.
+
+GitHub'daki `pilots.txt` dosyandaki her şeyi silip doğrudan bunu yapıştırabilirsin:
+
+```text
+SWV001:Durukan A.
+SWV002:Erdem Ç.
+SWV003:Mithatcan B.
+SWV004:Ada N.
+SWV005:Akif A.
+SWV006:Berke B.
+SWV007:Ertan G.
+SWV008:Barış G.
+SWV009:Eren A.
+SWV010:Furkan R.
+SWV011:Sefa A.
+SWV012:Mert A.
+SWV013:Yiğit Ç.
+SWV014:Mustafa B.
+SWV015:Tayfur Ç.
+SWV016:Enes B.
+SWV017:Atakan E.
+SWV018:Egemen T.
+SWV019:Olcay A.
+SWV020:Ali T.
+SWV021:Göktuğ G.
+SWV022:Hakan A.
+SWV023:Yasin E.
+SWV024:Muhammet Y.
+SWV025:Batuhan K.
+SWV026:Baybars T.
+SWV027:Faruk A.
+SWV028:Sadullah Ç.
+SWV029:Emir T.
+SWV030:Dağhan U.
+SWV031:Ali B.
+SWV032:Yakup O.
+SWV033:Miran N.
+SWV034:Alp S.
+SWV035:Samed B.
+SWV036:Göktuğ D.
+SWV037:Kerem A.
+SWV038:Samet Z.
+SWV039:Kağan Ç.
+SWV040:Mert G.
+SWV041:Berat Y.
+SWV042:Kerem K.
+SWV043:Ozan Ö.
+SWV044:Umut A.
+SWV045:Zekeriya D.
+SWV046:Muhammet K.
+SWV047:Yiğit K.
+SWV048:Doruk Ali K.
+SWV049:M. Said Ç.
+SWV050:Efe O.
+SWV051:Mehmet H.
+SWV052:Selim Ç.
+SWV053:Osman T.
+SWV054:Toprak E.
+SWV055:Murat E.
+SWV056:Can K.
+SWV057:Ç. Ahmet K.
+SWV058:Arda K.
+SWV059:Baki R.
+SWV060:Oğuz A.
+SWV061:Taha M.
+SWV062:B. Alperen P.
+SWV063:Veysel Ş.
+SWV064:Etem U.
+SWV065:Can Berva K.
+SWV066:Bora K.
+SWV067:Ulaş Doruk K.
+SWV068:Gökmen E.
+SWV069:Enes H.
+SWV070:Cengiz Y.
+SWV071:Mert K.
+SWV072:Mikail B.
+SWV073:Burak K.
+SWV074:Ahmet Ş.
+SWV075:Eren D.
+SWV076:Hüseyin H.
+SWV077:Demir U.
+SWV078:Eda Y.
+SWV079:Eren E.
+SWV080:Ege M.
+SWV081:Ahmet M.
+SWV082:Furkan K.
+SWV083:Metin Y.
+SWV084:Hakan Oğuz E.
+SWV085:Berkay Ç.
+SWV086:Hasan G.
+SWV087:Miraç B.
+SWV088:Semih B.
+SWV089:Burak B.
+SWV090:Furkan Ko.
+SWV091:Haluk Ç.
+SWV092:Enver D.
+SWV093:Yaşar B.
+SWV094:Seydi D.
+SWV095:Alptuğ Y.
+SWV096:Yiğit C. Y.
+
+```
+
+Dosyayı kaydedip commit'ledikten sonra programdan kendi kodunla giriş yapıp test edebilirsin, veri tabanı şimdiden hayırlı olsun!
