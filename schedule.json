@@ -1,6 +1,16 @@
 {
   "SWV064": [
-    { "dep": "LTAI", "arr": "LTFJ", "aircraft": "B738" },
-    { "dep": "LTFM", "arr": "EDDF", "aircraft": "B738" }
+    {
+      "flight_number": "SWV064",
+      "dep": "LTAI",
+      "arr": "LTFJ",
+      "aircraft": "B738"
+    },
+    {
+      "flight_number": "SWV3434",
+      "dep": "LTFJ",
+      "arr": "LTFE",
+      "aircraft": "A320"
+    }
   ]
 }
